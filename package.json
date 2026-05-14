@@ -1,0 +1,16 @@
+{
+  "name": "youtubeclone-video7",
+  "version": "1.0.0",
+  "description": "a backend youtube clone ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "salmankhan"
+  ],
+  "author": "Salman Khan",
+  "license": "ISC"
+}
